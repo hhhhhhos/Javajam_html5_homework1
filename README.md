@@ -1,7 +1,7 @@
 
 ## 简介
 
-html + css「初学者的静态网页作业1」javajam 2022-11
+html + css「萌新的静态网页作业1」javajam 2022-11
 
 https://hhhhhhos.github.io/Javajam_html5_homework1/javajam/index
 
